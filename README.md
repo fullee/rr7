@@ -1,12 +1,8 @@
-# React + Vite
+# React + Vite + React Router 7
+> 这是[React Router 7全栈开发实战](https://xiaobot.net/p/rr7) 小报童专栏的仓库
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+阅读专栏请访问: https://xiaobot.net/p/rr7
 
-Currently, two official plugins are available:
+## 代码索引:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 第 1 章: [项目初始化](https://github.com/fullee/rr7/tree/c1)
